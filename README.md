@@ -36,11 +36,11 @@ mkdir 202001_itagaki_hiroshi
 
 6. ステージング→コミットしてください。
 ```
-$ git add .
+$ git add -A
 $ git commit -m '（受講年月）_slack名'
 
 # 例
-git add .
+git add -A
 git commit -m '202001_itagaki_hiroshi'
 ```
 
