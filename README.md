@@ -8,7 +8,7 @@ GitHub上でコードレビューを実施します。
 
 1. このリポジトリをクローンしてください。
 ```
-$ git clone
+$ git clone git@github.com:gakisan8273/xhack-js-review.git
 ```
 
 2. `xhack-js-review`というフォルダが生成されるので、そこに移動してください。
