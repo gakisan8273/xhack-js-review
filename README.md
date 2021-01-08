@@ -50,3 +50,17 @@ git commit -m '202001_itagaki_hiroshi'
 $ git push origin head
 ```
 
+8. このリポジトリのページに移動してください。
+
+9. `new Pull Request'を押してください。
+
+10. タイトルに 「受講年月_slack名」 を入力してください。
+本文には特にみてもらいたい箇所など、自由に記入してください。
+
+11. `Create Pull Request' を押してください。
+
+12. GitHub上でレビューができる状態になったので、Slackで`Pull Request`をした旨を報告してください。
+
+13. レビューをします。
+
+14. レビューが完了した旨をSlackに報告しますので、提示されたリンク先を参照ください。
