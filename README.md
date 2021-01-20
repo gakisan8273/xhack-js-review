@@ -52,10 +52,13 @@ $ git push origin head
 
 8. このリポジトリのページに移動してください。
 
-9. `new Pull Request'を押してください。
+9. `Compare and Pull Request`を押してください。
+![スクリーンショット 2021-01-20 23 14 28](https://user-images.githubusercontent.com/52925914/105187456-292cc300-5b76-11eb-813f-87d3943f406b.png)
 
 10. タイトルに 「受講年月_slack名」 を入力してください。
 本文には特にみてもらいたい箇所など、自由に記入してください。
+
+![スクリーンショット 2021-01-20 23 17 56](https://user-images.githubusercontent.com/52925914/105187425-1f0ac480-5b76-11eb-9f01-fdd4130e62c0.png)
 
 11. `Create Pull Request' を押してください。
 
