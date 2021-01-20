@@ -50,9 +50,9 @@ git commit -m '202001_itagaki_hiroshi'
 $ git push origin head
 ```
 
-8. このリポジトリのページに移動してください。
+8. [このリポジトリのページ](https://github.com/gakisan8273/xhack-js-review)に移動してください。
 
-9. `new Pull Request'を押してください。
+9. `Create new Pull Request`を押してください。
 
 10. タイトルに 「受講年月_slack名」 を入力してください。
 本文には特にみてもらいたい箇所など、自由に記入してください。
